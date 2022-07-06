@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! I'm Miranda
+I'm a student at the University of Waterloo studying Computer Science
+I'm currently learning about full stack development
 
 <!--
 **miranjingjing/miranjingjing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
